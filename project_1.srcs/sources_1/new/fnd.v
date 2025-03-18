@@ -1,5 +1,5 @@
 module simple_fnd_controller (
-    input clk,
+    input clk, //륶아 연애좀해 ㅋ
     input reset,
     input [7:0] data_in,
     // input rx_done,
