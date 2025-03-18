@@ -9,7 +9,7 @@ module simple_fnd_controller (
     // // 마지막 자리만 활성화 (active low)
     // assign fnd_comm = 4'b1110;
 
-    wire[3:0] w_bcd;
+    wire[3:0] w_bcd;//TEST
     reg [3:0] value_hex;
 
     always @(*) begin
